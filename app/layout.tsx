@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <html lang="ja">
       <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/rakurepi.ico" sizes="any" />
       </head>
       <body className="min-h-screen text-gray-900 font-sans antialiased">
         <div className="container mx-auto max-w-2xl p-4">
